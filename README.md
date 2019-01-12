@@ -1,4 +1,4 @@
-### 日历组件封装 calendar.js
+### 日历插件封装 calendar.js
 
 使用方法:文档中外链式引入，<script type='text/javascript' src='calendar.js'></script>
 
